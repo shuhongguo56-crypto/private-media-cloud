@@ -1,0 +1,8 @@
+{
+  "name": "Private Media Cloud",
+  "short_name": "Cloud",
+  "start_url": "./#/camera-import",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617"
+}
